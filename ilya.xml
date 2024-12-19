@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <count>1</count>
+    <students>
+        <student id="1">
+            <age>18</age>
+            <name>Илья</name>
+        </student>
+    </students>
+</root>
